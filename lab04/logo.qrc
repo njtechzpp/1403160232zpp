@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>scorewindow_1.png</file>
+        <file>scorewindow_2.jpg</file>
+    </qresource>
+</RCC>

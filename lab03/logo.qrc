@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>docs/images/logo_210.gif</file>
+        <file>docs/images/tianqihoubao.jpg</file>
+    </qresource>
+</RCC>
